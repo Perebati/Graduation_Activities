@@ -2,6 +2,8 @@
 //Árvore Binária Básica
 //22/06/2021
 
+//Acabei confuncdindo esse código com o de Gauss Jordan na hora de enviar
+
 #include <stdio.h>
 #include <stdlib.h>
 
