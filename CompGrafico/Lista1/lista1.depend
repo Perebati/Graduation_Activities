@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667531880 source:c:\users\lucas b pereira\documents\github\codigos\compgrafico\elisa\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+
+1667780411 source:c:\users\lucas b pereira\documents\github\codigos\compgrafico\lista1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+
